@@ -1,0 +1,12 @@
+:root {
+    --blue: rgb(0, 66, 137);
+}
+
+* {
+
+  font-family: "Montserrat", sans-serif;
+}
+
+.navbar {
+    color: var(--blue);
+}
